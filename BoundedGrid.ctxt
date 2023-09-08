@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BoundedGrid
+comment1.params=rows\ cols
+comment1.target=BoundedGrid(int,\ int)
+comment2.params=
+comment2.target=int\ getNumRows()
+comment3.params=
+comment3.target=int\ getNumCols()
+comment4.params=loc
+comment4.target=java.lang.Object\ get(Location)
+comment5.params=loc\ obj
+comment5.target=java.lang.Object\ put(Location,\ java.lang.Object)
+comment6.params=loc
+comment6.target=boolean\ isValid(Location)
+comment7.params=loc
+comment7.target=java.lang.Object\ remove(Location)
+comment8.params=
+comment8.target=java.util.ArrayList\ getOccupiedLocations()
+numComments=9

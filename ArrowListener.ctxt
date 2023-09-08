@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArrowListener
+comment0.text=\n\ ArrowListener\ interface\ for\ Tetris\ project\n
+comment1.params=
+comment1.target=void\ upPressed()
+comment2.params=
+comment2.target=void\ downPressed()
+comment3.params=
+comment3.target=void\ leftPressed()
+comment4.params=
+comment4.target=void\ rightPressed()
+comment5.params=
+comment5.target=void\ spacePressed()
+numComments=6
